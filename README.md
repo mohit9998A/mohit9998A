@@ -1,294 +1,320 @@
+[README(2).md](https://github.com/user-attachments/files/32595988/README.2.md)
 <div align="center">
 
-Mohit Dutta
+# <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/assets/typing-svg.gif" width="28"> Mohit Dutta
 
-AI Engineer • Machine Learning • Generative AI • AI Automation
+### AI Engineer · Machine Learning · Generative AI · AI Automation
 
-Building intelligent systems that connect AI, software, voice, automation, and real-world products.
+**Designing intelligent systems that turn AI research into real-world products.**
 
-<p>
-  <a href="https://www.linkedin.com/in/mohitduttaai/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/mohit9998A/">
-    <img src="https://img.shields.io/badge/GitHub-mohit9998A-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/u/mohitcod">
-    <img src="https://img.shields.io/badge/LeetCode-mohitcod-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://huggingface.co/Mohitaiengineer">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Mohitaiengineer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/mohitduttaai/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/mohit9998A/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/mohitcod">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://huggingface.co/Mohitaiengineer">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohit9998A&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
 
 </div>
 
-👋 About Me
+---
 
-I'm Mohit Dutta, an AI Engineer focused on designing and deploying practical AI systems.
+## ⚡ AI Engineering at a Glance
 
-My work spans Machine Learning, Generative AI, LLM applications, RAG, AI voice agents, computer vision, automation, and full-stack AI products.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy taking an idea from problem → architecture → prototype → production-ready system.
+### 🧠 Intelligence
+- Generative AI & LLM Applications
+- RAG & Knowledge Systems
+- AI Agents & Agentic Workflows
+- Machine Learning & Deep Learning
+- Computer Vision
+- Embeddings & Vector Search
 
-AI Engineering
-├── Machine Learning & Deep Learning
-├── Generative AI & LLM Applications
-├── RAG & Knowledge Systems
-├── AI Voice Agents
-├── Computer Vision
-├── AI Automation & Agentic Workflows
-├── Full-Stack AI Applications
-└── Cloud / Local AI Deployment
+</td>
+<td width="50%" valign="top">
 
-🧠 What I Build
+### ⚙️ Systems
+- AI Voice Agents
+- Real-Time AI
+- AI Automation with n8n
+- Full-Stack AI Applications
+- API & Workflow Integration
+- Local LLM Deployment
 
-Area
+</td>
+</tr>
+</table>
 
-Focus
+---
 
-🤖 Generative AI
+## 👨‍💻 About Me
 
-LLM applications, prompting, local models, AI agents
+I'm **Mohit Dutta**, an AI Engineer focused on building practical AI systems across **Generative AI, Machine Learning, RAG, Voice AI, Computer Vision and automation**.
 
-🔎 RAG Systems
+I enjoy working across the complete engineering lifecycle:
 
-Embeddings, vector search, knowledge bases, retrieval pipelines
+```text
+Problem
+   ↓
+Architecture
+   ↓
+AI / ML System
+   ↓
+Application + Automation
+   ↓
+Deployment
+   ↓
+Real-World Impact
+```
 
-🎙️ Voice AI
+My goal is simple:
 
-Multilingual voice agents, telephony, real-time AI conversations
+> **Build intelligent systems that are useful outside the notebook.**
 
-👁️ Computer Vision
+---
 
-Object detection, ANPR, OCR, image-based intelligence
+## 🚀 Featured Projects
 
-⚙️ AI Automation
+### 01 · 🎯 ANPR System
 
-n8n workflows, APIs, CRM/commerce automation, agent workflows
+**Automatic Number Plate Recognition using Computer Vision & Deep Learning**
 
-🧩 Full-Stack AI
+<a href="https://github.com/mohit9998A/ANPR-system">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
 
-Next.js, Python backends, APIs, databases, AI-powered interfaces
+**Focus:** Vehicle detection · License plate recognition · OCR · Computer Vision
 
-🧪 ML Engineering
+`Python` `YOLO` `OpenCV` `EasyOCR` `Deep Learning`
 
-Model development, evaluation, deployment and optimization
+---
 
-🖥️ Local AI
+### 02 · 🤖 GenAI Social Media Marketing Automation
 
-GPU-based LLM inference, Ollama, Hugging Face and open models
+**End-to-end AI content automation pipeline built with n8n.**
 
-🛠️ Tech Stack
+<a href="https://github.com/mohit9998A/N8n-Social-Media-Marketing-Automation">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
 
-Languages
+Automates content ideation, platform-specific scripts, AI image generation and short-form video workflows through reusable automation pipelines.
+
+`n8n` `Generative AI` `LLMs` `Automation` `JSON Workflows`
+
+---
+
+### 03 · 🛒 AI Commerce Intelligence
+
+**AI-driven commerce intelligence and automation for modern e-commerce workflows.**
+
+<a href="https://github.com/mohit9998A/AI-Commerce-Intelligence-">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+**Focus:** AI commerce · Customer intelligence · Automation · Product workflows
+
+`AI` `E-commerce` `Automation` `APIs` `LLMs`
+
+---
+
+## 🎙️ AI Voice Engineering
+
+### Bonn AI Receptionist
+
+A multilingual AI voice receptionist designed for real-world business communication.
+
+**Capabilities**
+
+| System | Capability |
+|---|---|
+| 🎧 Voice | Real-time conversational AI |
+| 🌐 Languages | Punjabi · Hindi · Hinglish · English |
+| 📚 Knowledge | RAG-powered company knowledge |
+| ☎️ Telephony | SIP / business calling integration |
+| 🔄 Automation | n8n workflows |
+| 🧩 Architecture | LiveKit + AI + Retrieval + APIs |
+
+**Technology:** `LiveKit` `Sarvam AI` `ElevenLabs` `RAG` `Hugging Face` `n8n` `Exotel`
+
+---
+
+## 🚘 Research & Intellectual Property
+
+### Next Generation Smart Toll Tax System — IoT & AI
+
+An AI + IoT intelligent toll-management system combining computer vision, vehicle identification and connected infrastructure.
+
+**Patent Application**
+
+```text
+Application Number : 2025111110608
+Patent Name        : Next Generation Smart Toll Tax System - IoT & AI
+Research Domain    : AI · IoT · Computer Vision · Intelligent Transportation
+```
+
+🔎 **Patent Search:** [Indian Patent Office Public Search](https://iprsearch.ipindia.gov.in/publicsearch)
+
+> Listed as a **patent application**; grant status should be verified through the official patent portal.
+
+---
+
+## 🛠️ Technology Stack
+
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,sql" alt="Languages">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-AI / ML
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch`
+
+### Generative AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI ML">
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector%20Search-111827?style=flat-square" />
 </p>
 
-Machine Learning: Pandas • NumPy • Scikit-learn • TensorFlow • Keras • PyTorch
-Computer Vision: YOLO • OpenCV • EasyOCR • ANPR
-Generative AI: LLMs • RAG • Embeddings • Prompt Engineering • AI Agents
-Models / Platforms: Hugging Face • Ollama • Open-source LLMs
+`Hugging Face` · `Ollama` · `Prompt Engineering` · `RAG` · `AI Agents` · `Local LLMs`
 
-Development & Infrastructure
+### Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,git,github,docker,vercel,supabase,firebase,mysql,mongodb" alt="Development Stack">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,fastapi,git,github,docker,vercel,supabase,firebase,mysql,mongodb" />
 </p>
 
-Automation: n8n • REST APIs • Webhooks • Workflow Automation
-Voice AI: LiveKit • ElevenLabs • Sarvam AI • SIP / Telephony
-Web: Next.js • React • TypeScript • Tailwind CSS • Three.js • GSAP
-Cloud / Deployment: Vercel • Supabase • Cloudflare • Firebase • Docker
+### AI Automation & Voice
 
-🚀 Featured Work
+`n8n` · `LiveKit` · `Sarvam AI` · `ElevenLabs` · `Exotel SIP` · `REST APIs` · `Webhooks`
 
-🎙️ Bonn AI Receptionist
+---
 
-A multilingual AI voice receptionist designed for real-world business call handling.
+## 🏆 Achievements
 
-Capabilities
+<table>
+<tr>
+<td align="center">🥉<br><b>3rd Prize</b><br>iTech Fiesta 2025</td>
+<td align="center">🥈<br><b>2nd Prize</b><br>Code Clash 2025</td>
+<td align="center">🚀<br><b>Top 60</b><br>Zero to One Hackathon</td>
+</tr>
+</table>
 
-Customer support
+**Zero to One Hackathon:** Top 60 among 1300+ participants.
 
-Retailer / distributor queries
+---
 
-HR and job-seeker interactions
+## 🎓 Education & Certifications
 
-Internal employee assistance
-
-Knowledge-base powered responses
-
-Punjabi, Hindi, Hinglish and English support
-
-Real-time voice interaction and telephony integration
-
-Core Stack: LiveKit • Sarvam AI • ElevenLabs • RAG • Hugging Face Embeddings • n8n • Exotel SIP
-
-🚘 Next-Generation Smart Toll Tax System
-
-An IoT + AI based intelligent toll management system combining computer vision, vehicle identification and connected infrastructure.
-
-Technology: YOLO • ANPR • EasyOCR • Raspberry Pi • MQTT • Firebase • MySQL
-
-Patent Application: 2025111110608
-Title: Next Generation Smart Toll Tax System - IoT & AI
-
-Patent status and application details should be verified through the official Indian Patent Office search portal.
-
-🗳️ VoteSure — Blockchain Voting System
-
-A secure voting-system concept combining blockchain principles with application-level authentication and transparent vote records.
-
-🏪 AI-Powered E-commerce Automation
-
-Building AI automation systems for commerce workflows including:
-
-Customer support
-
-Order tracking
-
-Product recommendations
-
-Customer retention
-
-WhatsApp automation
-
-Shopify workflows
-
-AI sales assistants
-
-🧴 AI + Premium Commerce Experiences
-
-Building modern e-commerce experiences combining:
-
-Shopify
-
-Next.js
-
-AI automation
-
-Product intelligence
-
-Premium UI/UX
-
-3D web experiences
-
-Automated marketing workflows
-
-📚 Research & Intellectual Property
-
-Patent Application
-
-Next Generation Smart Toll Tax System - IoT & AI
-
-Application Number: 2025111110608
-
-Research Area: IoT • Artificial Intelligence • Computer Vision • Intelligent Transportation
-
-Official Search Portal: Indian Patent Office Public Search
-
-This profile lists the application as a patent application rather than claiming that the application has been granted.
-
-🏆 Achievements
-
-🥉 3rd Prize — iTech Fiesta 2025
-
-🥈 2nd Prize — Code Clash 2025
-
-🚀 Top 60 — Zero to One Hackathon among 1300+ participants
-
-🧠 Developed AI systems combining ML, LLMs, voice AI and automation
-
-🔬 Working on AI + IoT research and applied intelligent systems
-
-🎓 Education
-
-Master of Computer Applications — Artificial Intelligence & Machine Learning
+**Master of Computer Applications — Artificial Intelligence & Machine Learning**  
 Chandigarh University
 
-Bachelor of Computer Applications
+**Bachelor of Computer Applications**  
 PCTE Group of Institutes, Ludhiana
 
-Certifications & Learning
+**Certifications / Learning**
+- IBM Machine Learning
+- Prompt Engineering
+- ISRO — Geodata Processing using Python
+- Microsoft Office 2019
 
-IBM Machine Learning
+---
 
-Prompt Engineering
-
-ISRO — Geodata Processing using Python
-
-Microsoft Office 2019
-
-📈 Engineering Philosophy
-
-Think deeply.
-Build simply.
-Automate intelligently.
-Measure continuously.
-Ship useful systems.
-
-I believe AI engineering is not only about building models.
-
-It is about building reliable systems around intelligence — from data and retrieval to APIs, interfaces, automation, monitoring and real-world user interaction.
-
-🔬 Currently Exploring
-
-Local LLM deployment & optimization
-
-Agentic AI systems
-
-RAG architecture
-
-Multimodal AI
-
-Real-time Voice AI
-
-AI-powered automation
-
-Computer Vision
-
-AI + IoT
-
-Production-grade AI infrastructure
-
-📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohit9998A&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats">
+<a href="https://github.com/mohit9998A">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit9998A&theme=github" width="98%" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit9998A&hide_border=true" height="165" alt="GitHub Streak">
+<br><br>
+
+<a href="https://github.com/mohit9998A">
+<img src="https://streak-stats.demolab.com/?user=mohit9998A&theme=default&hide_border=true" width="70%" />
+</a>
 
 </div>
 
-🧩 Contribution Graph
+---
+
+## 🔭 Currently Exploring
+
+```yaml
+GenAI:
+  - Agentic AI
+  - Local LLMs
+  - RAG Architecture
+  - Multimodal AI
+
+Real_Time_AI:
+  - Voice Agents
+  - Streaming AI
+  - Telephony
+
+AI_Systems:
+  - Production RAG
+  - AI Automation
+  - Computer Vision
+  - AI + IoT
+
+Engineering:
+  - Model Deployment
+  - AI Infrastructure
+  - Performance Optimization
+```
+
+---
+
+## 🧭 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit9998A&hide_border=true&area=true" alt="GitHub Contribution Graph">
+### THINK → BUILD → AUTOMATE → DEPLOY → IMPROVE
+
+**Research is valuable.  
+A working system is better.  
+A useful system is the goal.**
 
 </div>
 
-🤝 Let's Connect
+---
 
-I'm interested in collaborating on:
+## 🤝 Let's Connect
 
-AI Engineering • Generative AI • LLMs • RAG • Voice AI • Computer Vision • AI Automation • AI + IoT • Open Source
+Interested in collaborating around:
 
-<p align="center">
-  <strong>Build something intelligent. Make it useful. 🚀</strong>
-</p>
+`AI Engineering` · `Generative AI` · `LLMs` · `RAG` · `Voice AI` · `Computer Vision` · `AI Automation` · `AI + IoT` · `Open Source`
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/mohitduttaai/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://huggingface.co/Mohitaiengineer">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20AI%20WORK-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+
+<br><br>
+
+**Build something intelligent. Make it useful. 🚀**
 
 <sub>Designed & engineered by Mohit Dutta</sub>
 
