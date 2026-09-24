@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32596497/README.md)
 <p align="center">
   <img src="assets/header.svg" alt="Mohit Dutta, AI Engineer" width="100%" />
 </p>
