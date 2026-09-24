@@ -37,7 +37,7 @@ ask_me_about:       RAG, voice agents, LiveKit, n8n, YOLO + OCR pipelines
 
 ---
 
-## 🎙️ Flagship: Bonn AI Receptionist
+## 🎙️ Flagship: AI Receptionist
 
 A real-time voice agent that answers business calls in the caller's language and responds from the company's own knowledge base.
 
