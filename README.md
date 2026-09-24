@@ -1,5 +1,6 @@
+[README.md](https://github.com/user-attachments/files/32597066/README.md)
 <p align="center">
-  <img src="assets/header.svg" alt="Mohit Dutta, AI Engineer" width="100%" />
+  <img src="./header.svg" alt="Mohit Dutta, AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -32,7 +33,7 @@ research:           Smart Toll Tax System with IoT + AI (Indian patent applicati
 ask_me_about:       RAG, voice agents, LiveKit, n8n, YOLO + OCR pipelines
 ```
 
-<p align="center"><img src="assets/lifecycle.svg" alt="Engineering lifecycle: problem, architecture, AI/ML system, app and automation, deployment, impact" width="100%" /></p>
+<p align="center"><img src="./lifecycle.svg" alt="Engineering lifecycle: problem, architecture, AI/ML system, app and automation, deployment, impact" width="100%" /></p>
 
 ---
 
@@ -40,7 +41,7 @@ ask_me_about:       RAG, voice agents, LiveKit, n8n, YOLO + OCR pipelines
 
 A real-time voice agent that answers business calls in the caller's language and responds from the company's own knowledge base.
 
-<p align="center"><img src="assets/bonn-architecture.svg" alt="Bonn AI Receptionist architecture" width="100%" /></p>
+<p align="center"><img src="./bonn-architecture.svg" alt="Bonn AI Receptionist architecture" width="100%" /></p>
 
 | Layer | What it does | Built with |
 |---|---|---|
@@ -57,7 +58,7 @@ A real-time voice agent that answers business calls in the caller's language and
 ### 🎯 ANPR System
 Automatic number plate recognition with deep learning and OCR.
 
-<p align="center"><img src="assets/anpr-pipeline.svg" alt="ANPR pipeline: frame, detect, clean up, read, plate text" width="100%" /></p>
+<p align="center"><img src="./anpr-pipeline.svg" alt="ANPR pipeline: frame, detect, clean up, read, plate text" width="100%" /></p>
 
 <a href="https://github.com/mohit9998A/ANPR-system"><img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github" /></a>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,7 +96,7 @@ AI-driven customer intelligence and product workflow automation for modern e-com
 
 ## 🛠️ Tech stack
 
-<p align="center"><img src="assets/stack.svg" alt="Technology stack by layer" width="100%" /></p>
+<p align="center"><img src="./stack.svg" alt="Technology stack by layer" width="100%" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,nextjs,react,ts,nodejs,fastapi,docker,supabase,firebase,mysql,mongodb,vercel,git&perline=17" />
@@ -105,7 +106,7 @@ AI-driven customer intelligence and product workflow automation for modern e-com
 
 ## 🏆 Milestones
 
-<p align="center"><img src="assets/milestones.svg" alt="Education, competition results and patent application" width="100%" /></p>
+<p align="center"><img src="./milestones.svg" alt="Education, competition results and patent application" width="100%" /></p>
 
 <details>
 <summary><b>Patent details</b></summary>
